@@ -42,6 +42,8 @@ exit 退出container
 
 ### 程式運行
 
+#### 需要使用linux系統
+
 開始設定container時必須以sudo身份執行
 
 可以使用chroot來限制文件內容
